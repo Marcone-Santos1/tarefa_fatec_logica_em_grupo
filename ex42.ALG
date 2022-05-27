@@ -1,4 +1,4 @@
-Algoritmo "questao42"
+Algoritmo "ex42"
 // 
 //  
 // Descrição   : Aqui você descreve o que o programa faz! (função)
