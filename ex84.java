@@ -1,4 +1,3 @@
-package tarefa_fatec_logica_em_grupo;
 import java.io.PrintStream;
 import java.util.Scanner;
 
