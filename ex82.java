@@ -1,4 +1,3 @@
-package tarefa_fatec_logica_em_grupo;
 import javax.swing.JOptionPane;
 
 public class ex82{
