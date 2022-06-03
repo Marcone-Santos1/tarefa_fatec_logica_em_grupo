@@ -1,15 +1,15 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 31/05/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 Valor1,Valor2,Valor3,Valor4,RS1,RS2,RS3,RS4,RS5: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
  escreval("Digite um valor")
  leia(Valor1)
@@ -62,7 +62,7 @@ fimse
  
  RS5 <- (((RS1 + RS2 + RS3 + RS4) * 100) / 6)
  
- Escreval ("O quarterback rating é ",RS5)
+ Escreval ("O quarterback rating Ã© ",RS5)
  
  
  
