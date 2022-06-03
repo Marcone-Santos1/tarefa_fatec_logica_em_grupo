@@ -1,15 +1,15 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 28/05/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
  L:caracter
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 escreva("Digite uma letra: ")
 leia(L)
@@ -18,12 +18,12 @@ se ((maiusc(L) >= "A") E (maiusc(L) <= "Z")) entao
 
 se ((maiusc(L) = "A") OU (maiusc(L) = "E") OU (maiusc(L) = "I") OU (maiusc(L) = "O") OU (maiusc(L) = "U")) entao
 
-escreval("É uma vogal")
+escreval("Ã‰ uma vogal")
 senao
-escreval("É uma consoante")
+escreval("Ã‰ uma consoante")
 fimse
 senao
-escreval("Não é uma letra")
+escreval("NÃ£o Ã© uma letra")
 fimse
 
 Fimalgoritmo
