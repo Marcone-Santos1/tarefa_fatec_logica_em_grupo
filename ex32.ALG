@@ -1,15 +1,15 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 31/05/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 L:caracter
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 escreva("Digite uma letra: ")
 leia(L)
@@ -18,16 +18,16 @@ se ((maiusc(L) >= "A") E (maiusc(L) <= "Z")) entao
 
 se ((maiusc(L) = "A") OU (maiusc(L) = "E") OU (maiusc(L) = "I") OU (maiusc(L) = "O") OU (maiusc(L) = "U")) entao
 
-escreval("É uma vogal")
+escreval("Ã‰ uma vogal")
 
 
 se ((maiusc(L) = "B") OU (maiusc(L) = "C") OU (maiusc(L) = "D") OU (maiusc(L) = "F") OU (maiusc(L) = "G") OU (maiusc(L) = "J") OU (maiusc(L) = "K") OU (maiusc(L) = "L") OU (maiusc(L) = "M") OU (maiusc(L) = "N") OU (maiusc(L) = "P") OU (maiusc(L) = "Q") OU (maiusc(L) = "R") OU (maiusc(L) = "S") OU (maiusc(L) = "T") OU (maiusc(L) = "V") OU (maiusc(L) = "W") OU (maiusc(L) = "X") OU (maiusc(L) = "Z")) entao
-escreval("É uma consoante")
+escreval("Ã‰ uma consoante")
 
 se (L => 0) entao
-escreval ("É um Numero")
+escreval ("Ã‰ um Numero")
 senao
-escreval("É um símbolo")
+escreval("Ã‰ um sÃ­mbolo")
 fimse
 fimse
 FIMSE
