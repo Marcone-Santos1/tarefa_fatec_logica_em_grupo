@@ -1,15 +1,15 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 02/06/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 
  num:inteiro
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 
 escreval("Digite um Numero de 1 a 100")
 leia(Num)
@@ -22,7 +22,7 @@ se num = 2 entao
 escreval("DOIS",Num)
 fimse
 se num = 3 entao
-escreval("TRÊS",Num)
+escreval("TRÃŠS",Num)
 fimse
 se num = 4 entao
 escreval("QUATRO",Num)
