@@ -1,27 +1,27 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 02/06/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 RS1,RS2,RS3:real
 Num,acre:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
  escreval("Digite o tipo do praga")
-escreval ("Tipo 1 – ervas daninhas")
-escreval("Tipo 2 – gafanhotos ")
-escreval ("Tipo 3 – broca ")
-escreval ("Tipo 4 – todos acima ")
+escreval ("Tipo 1 â€“ ervas daninhas")
+escreval("Tipo 2 â€“ gafanhotos ")
+escreval ("Tipo 3 â€“ broca ")
+escreval ("Tipo 4 â€“ todos acima ")
 leia(Num)
 
-//Tipo 1 – ervas daninhas R$ 50,00 por acre;
-//Tipo 2 – gafanhotos R$ 100,00 por acre;
-//Tipo 3 – broca R$ 150,00 por acre;
-//Tipo 4 – todos acima R$ 250,00 por acre.
+//Tipo 1 â€“ ervas daninhas R$ 50,00 por acre;
+//Tipo 2 â€“ gafanhotos R$ 100,00 por acre;
+//Tipo 3 â€“ broca R$ 150,00 por acre;
+//Tipo 4 â€“ todos acima R$ 250,00 por acre.
 
 escreval("Digite o Tamanho do ACRE")
 leia(acre)
@@ -44,7 +44,7 @@ RS1 <- (acre * 50)
       escreval("Possibilidade com 10% de desconto: R$: ",RS3)
    fimse
    se (RS1 < 750) entao
-      Escreval("Orçamento ficou em R$: ",RS1)
+      Escreval("OrÃ§amento ficou em R$: ",RS1)
 fimse
 fimse
 
@@ -67,7 +67,7 @@ RS1 <- (acre * 100)
       escreval("Possibilidade com 10% de desconto: R$: ",RS3)
    fimse
    se (RS1 < 750) entao
-      Escreval("Orçamento ficou em R$: ",RS1)
+      Escreval("OrÃ§amento ficou em R$: ",RS1)
 fimse
 fimse
 
@@ -91,7 +91,7 @@ RS1 <- (acre * 150)
       escreval("Possibilidade com 10% de desconto: R$: ",RS3)
    fimse
    se (RS1 < 750) entao
-      Escreval("Orçamento ficou em R$: ",RS1)
+      Escreval("OrÃ§amento ficou em R$: ",RS1)
 fimse
 fimse
 
@@ -115,7 +115,7 @@ RS1 <- (acre * 250)
       escreval("Possibilidade com 10% de desconto: R$: ",RS3)
    fimse
    se (RS1 < 750) entao
-      Escreval("Orçamento ficou em R$: ",RS1)
+      Escreval("OrÃ§amento ficou em R$: ",RS1)
 fimse
 fimse
 
